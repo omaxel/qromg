@@ -1,0 +1,29 @@
+@import "~scss/variables";
+
+.root {
+  margin: 2rem auto 0 auto;
+  text-align: center;
+}
+
+.container {
+  display: inline-block;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.img {
+  display: block;
+  border-top-left-radius: $border-radius;
+  border-top-right-radius: $border-radius;
+  border: 1px solid $primary-color;
+  border-bottom: none;
+}
+
+.btnDownload {
+  display: block;
+  width: 100%;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

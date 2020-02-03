@@ -1,0 +1,44 @@
+@import "~scss/variables.scss";
+
+.root {
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.input {
+  font-size: 2rem;
+  width: 100%;
+}
+
+.btnGenerate {
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+.progressBar {
+  margin: 2rem auto;
+}
+
+@media (min-width: 768px) {
+  .form {
+    flex-wrap: nowrap;
+  }
+
+  .input {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  .btnGenerate {
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+}
