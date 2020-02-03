@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/qromg/static/css/main.67a38333.chunk.css",
+    "main.js": "/qromg/static/js/main.6dabba5c.chunk.js",
+    "main.js.map": "/qromg/static/js/main.6dabba5c.chunk.js.map",
+    "runtime-main.js": "/qromg/static/js/runtime-main.f8efde7c.js",
+    "runtime-main.js.map": "/qromg/static/js/runtime-main.f8efde7c.js.map",
+    "static/js/2.d4a8e847.chunk.js": "/qromg/static/js/2.d4a8e847.chunk.js",
+    "static/js/2.d4a8e847.chunk.js.map": "/qromg/static/js/2.d4a8e847.chunk.js.map",
+    "9a3633351a1a96cf06a9.worker.js": "/qromg/9a3633351a1a96cf06a9.worker.js",
+    "9a3633351a1a96cf06a9.worker.js.map": "/qromg/9a3633351a1a96cf06a9.worker.js.map",
+    "index.html": "/qromg/index.html",
+    "precache-manifest.4f962f79c580b6680ce6d92e456f7f99.js": "/qromg/precache-manifest.4f962f79c580b6680ce6d92e456f7f99.js",
+    "service-worker.js": "/qromg/service-worker.js",
+    "static/css/main.67a38333.chunk.css.map": "/qromg/static/css/main.67a38333.chunk.css.map",
+    "static/js/2.d4a8e847.chunk.js.LICENSE": "/qromg/static/js/2.d4a8e847.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8efde7c.js",
+    "static/js/2.d4a8e847.chunk.js",
+    "static/css/main.67a38333.chunk.css",
+    "static/js/main.6dabba5c.chunk.js"
+  ]
+}
