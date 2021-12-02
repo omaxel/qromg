@@ -1,5 +1,5 @@
 # QROMG!
-[QROMG](https://omarmuscatello.github.io/qromg) is a QR Code generator with Web GUI.
+[QROMG](https://omaxel.github.io/qromg) is a QR Code generator with Web GUI.
 
 ## Features
 This is just the first implementation of what I have in mind. Some of the features I'll add are:
